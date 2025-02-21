@@ -24,4 +24,4 @@ This project fetches and displays recent GitHub activity for a specified user.
 
 To fetch and display recent GitHub activity for a user, run the following command:
 ```sh
-python github-activity.py <username> [-c COUNT]
+python github-activity.py <username>
