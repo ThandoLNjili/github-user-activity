@@ -1,6 +1,7 @@
 # github-user-activity
 
 This project fetches and displays recent GitHub activity for a specified user.
+project url: https://roadmap.sh/projects/github-user-activity
 
 ## Requirements
 
@@ -11,7 +12,7 @@ This project fetches and displays recent GitHub activity for a specified user.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/github-user-activity.git
+    git clone https://github.com/ThandoLNjili/github-user-activity.git
     cd github-user-activity
     ```
 
