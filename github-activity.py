@@ -21,6 +21,7 @@ def fetch_github_activity(username):
     
 def display_activity(username, events):
     if not events:
+        print(f"No recent activity found for {username}.")
         return
     
     print(f"Recent GitHub activity for {username}:")
